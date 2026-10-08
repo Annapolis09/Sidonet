@@ -1,5 +1,5 @@
 Привет! Я — Сидорчук Анна
-!(<img width="820" height="820" alt="image" src="https://github.com/user-attachments/assets/b1a1917d-ff9c-4d3f-b513-a04f97e066d4" />)
+<img width="820" height="820" alt="image" src="https://github.com/user-attachments/assets/b1a1917d-ff9c-4d3f-b513-a04f97e066d4" />
 
 Добро пожаловать в мой профиль на GitHub! 
 
